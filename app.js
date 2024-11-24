@@ -4,4 +4,4 @@ function clickEventAttach(){
         console.log(`Button Clicked ${++i}`)
     })
 }
-clickEventAttach()
+clickEventAttach();
