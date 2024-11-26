@@ -5,3 +5,10 @@ function clickEventAttach(){
     })
 }
 clickEventAttach();
+
+// what is the diffrence between post and pre increment 
+
+/**
+ * 
+ *  ++i 
+ */
